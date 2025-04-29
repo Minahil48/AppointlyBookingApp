@@ -32,7 +32,7 @@ Clone this Repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/hotel-booking-app.git  
+git clone (https://github.com/Minahil48/AppointlyBookingApp.git) 
 Install Dependencies
 Navigate into the project directory and install the necessary dependencies:
 
